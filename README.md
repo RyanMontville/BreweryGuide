@@ -8,6 +8,8 @@ When someone is logged in as a brewer, their homepage displays all of the brewer
 When a site admin is logged in, their homepage lists all of the unapproved breweries and they have the option to either approve the brewery or delete it. They can also view a list of all registered users/brewers. The admin is able to click on a user to view all of the reviews they have written and delete any inappropriate/offensive reviews. 
 <br><br>
 The app has a SQL database that stores the user info, breweries, beer, and reviews. The front end runs on Vue.js framework, with a REST API to complete the MCV. 
+
+You can view <a href="https://www.ryanmontville.com/BreweryGuide/">a live demo</a> on Github pages.
 <div>
 <img src="https://github.com/RyanMontville/BreweryGuide/blob/main/Screenshots/User_Homepage.png" alt="user-homepage" title="User Homepage" style="width: 10%; display: inline-block;"></img>
 <img src="https://github.com/RyanMontville/BreweryGuide/blob/main/Screenshots/Brewer_Homepage.png" alt="brewer-homepage" title="Brewery Owner Homepage" style="width: 10%; display: inline-block;"></img>
